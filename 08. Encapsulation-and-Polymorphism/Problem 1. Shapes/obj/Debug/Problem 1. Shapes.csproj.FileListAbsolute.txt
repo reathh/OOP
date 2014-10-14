@@ -1,0 +1,9 @@
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe.config
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\obj\Debug\Problem 1. Shapes.csprojResolveAssemblyReference.cache
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.pdb
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.exe
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.pdb
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe.config
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.exe
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.pdb

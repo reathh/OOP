@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galactic-GPS", "Other-Types-In-OOP\Galactic-GPS.csproj", "{37112890-0987-48A2-A8A8-140F1FE30E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction-Calculator", "Fraction-Calculator\Fraction-Calculator.csproj", "{27DD77CE-94AB-4B8C-B55A-2B886EB281A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_List", "Generic_List\Generic_List.csproj", "{36A136EF-80CD-4926-A8DA-0FFD5589E13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37112890-0987-48A2-A8A8-140F1FE30E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37112890-0987-48A2-A8A8-140F1FE30E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37112890-0987-48A2-A8A8-140F1FE30E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37112890-0987-48A2-A8A8-140F1FE30E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DD77CE-94AB-4B8C-B55A-2B886EB281A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DD77CE-94AB-4B8C-B55A-2B886EB281A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DD77CE-94AB-4B8C-B55A-2B886EB281A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DD77CE-94AB-4B8C-B55A-2B886EB281A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A136EF-80CD-4926-A8DA-0FFD5589E13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A136EF-80CD-4926-A8DA-0FFD5589E13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A136EF-80CD-4926-A8DA-0FFD5589E13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A136EF-80CD-4926-A8DA-0FFD5589E13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

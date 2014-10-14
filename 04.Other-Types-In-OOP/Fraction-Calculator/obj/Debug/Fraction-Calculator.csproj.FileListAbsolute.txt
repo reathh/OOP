@@ -1,0 +1,6 @@
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\obj\Debug\Fraction-Calculator.csprojResolveAssemblyReference.cache
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\bin\Debug\Fraction-Calculator.exe.config
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\bin\Debug\Fraction-Calculator.exe
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\bin\Debug\Fraction-Calculator.pdb
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\obj\Debug\Fraction-Calculator.exe
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Fraction-Calculator\obj\Debug\Fraction-Calculator.pdb

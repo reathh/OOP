@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\bin\Debug\InterestCalculation.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\obj\Debug\InterestCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\bin\Debug\InterestCalculation.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\bin\Debug\InterestCalculation.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\obj\Debug\InterestCalculation.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\InterestCalculation\obj\Debug\InterestCalculation.pdb

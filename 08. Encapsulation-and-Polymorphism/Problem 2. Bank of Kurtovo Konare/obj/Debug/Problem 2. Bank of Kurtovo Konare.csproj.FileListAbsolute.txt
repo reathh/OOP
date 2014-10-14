@@ -1,0 +1,7 @@
+E:\Downloads\6. Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe.config
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe.config
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem 2. Bank of Kurtovo Konare.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\bin\Debug\Problem_2.Bank_of_Kurtovo_Konare.pdb
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem_2.Bank_of_Kurtovo_Konare.exe
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\Problem 2. Bank of Kurtovo Konare\obj\Debug\Problem_2.Bank_of_Kurtovo_Konare.pdb

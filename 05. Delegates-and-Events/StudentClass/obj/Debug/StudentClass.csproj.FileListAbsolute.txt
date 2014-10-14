@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\05_Delegates_and_Events\StudentClass\obj\Debug\StudentClass.pdb

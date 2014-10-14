@@ -1,0 +1,6 @@
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\bin\Debug\Other-Types-In-OOP.exe.config
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\obj\Debug\Other-Types-In-OOP.csprojResolveAssemblyReference.cache
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\bin\Debug\Other-Types-In-OOP.exe
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\bin\Debug\Other-Types-In-OOP.pdb
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\obj\Debug\Other-Types-In-OOP.exe
+c:\users\reath\documents\visual studio 2013\Projects\Other-Types-In-OOP\Other-Types-In-OOP\obj\Debug\Other-Types-In-OOP.pdb
